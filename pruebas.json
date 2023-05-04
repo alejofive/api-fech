@@ -1,0 +1,79 @@
+{
+  "pruebas": [
+    {
+      "id": 1,
+      "nombre": "Jumbo Ofertas Enero",
+      "tipo": "Jumbo Mensual",
+      "fecha": "18/01/2022 10:00",
+      "fecha2": "24/01/2022 09:00",
+      "canal": "Ecommerce",
+      "vinculadas": "3",
+      "bandera": "JUMBO - AR",
+      "estado": "Activada",
+      "pais": "",
+      "zona": "",
+      "seccion": "",
+      "locales": ""
+    },
+    {
+      "id": 2,
+      "nombre": "Jumbo Days",
+      "tipo": "FDM",
+      "fecha": "18/01/2022 10:00",
+      "fecha2": "24/01/2022 09:00",
+      "canal": "Ecommerce",
+      "vinculadas": "100",
+      "bandera": "JUMBO - AR",
+      "estado": "Activada",
+      "pais": "",
+      "zona": "",
+      "seccion": "",
+      "locales": ""
+    },
+    {
+      "id": 3,
+      "nombre": "botas",
+      "tipo": "Semanal",
+      "fecha": "2023-03",
+      "fecha2": "2023-02",
+      "canal": "Físico",
+      "vinculadas": "100",
+      "bandera": "JUMBO - VE",
+      "estado": "Pendiente Activación",
+      "pais": "Venezuela",
+      "zona": "JUMBO - ES",
+      "seccion": "JUMBO - ES",
+      "locales": "S507, S502, S504, S504, S505, S506"
+    },
+    {
+      "id": 4,
+      "nombre": "aviones",
+      "tipo": "",
+      "fecha": "2023-03",
+      "fecha2": "2023-07",
+      "canal": "Ecommerce",
+      "vinculadas": "100",
+      "bandera": "JUMBO - ES",
+      "estado": "Activada",
+      "pais": "Argentina",
+      "zona": "",
+      "seccion": "JUMBO - ES",
+      "locales": "S505, S502, S504, S504, S505, S506"
+    },
+    {
+      "pais": "Venezuela",
+      "bandera": "JUMBO - ES",
+      "zona": "JUMBO - ES",
+      "locales": "S505, S502, S504, S504, S505, S506",
+      "seccion": "JUMBO - VE",
+      "estado": "Creada",
+      "viculadas": "200",
+      "nombre": "carros",
+      "tipo": "FDM",
+      "canal": "Ecommerce",
+      "fecha": "2023-10",
+      "fecha2": "2023-07",
+      "id": 5
+    }
+  ]
+}
